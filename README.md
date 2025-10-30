@@ -1,5 +1,27 @@
 # 🚀 BamDamForensics
 
+![C++](https://img.shields.io/badge/language-C++-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=flat-square) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+
+## 📑 Table des Matières
+
+- [📋 Description](#-description)
+- [✨ Fonctionnalités](#-fonctionnalités)
+- [Architecture Technique](#architecture-technique)
+- [🚀 Utilisation](#-utilisation)
+- [Avantages de BAM/DAM vs Autres Artefacts](#avantages-de-bamdam-vs-autres-artefacts)
+- [🚀 Cas d'Usage Forensique](#-cas-dusage-forensique)
+- [Différences BAM vs DAM](#différences-bam-vs-dam)
+- [Évolutions Futures](#évolutions-futures)
+- [Compilation](#compilation)
+- [Permissions](#permissions)
+- [Références Techniques](#références-techniques)
+- [🔧 Troubleshooting](#-troubleshooting)
+- [📄 Licence](#-licence)
+- [👤 Auteur](#-auteur)
+- [📝 Changelog](#-changelog)
+
+
+
 
 **WinToolsSuite Serie 3 - Forensics Tool #23**
 
@@ -392,6 +414,14 @@ WinToolsSuite Development Team
 - Interface française
 - Logging complet
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
